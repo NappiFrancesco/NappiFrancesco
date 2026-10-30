@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**NappiFrancesco/NappiFrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sono uno studente del liceo informatico
+
+## ❤️ Le mie passioni
+
+- Mi piace il calcio
+- Mi piace stare al computer
+- Mi piace stare con gli amici
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+- git e github
+- html/css
+- c
